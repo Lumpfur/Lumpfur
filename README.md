@@ -1,48 +1,53 @@
-# Привет! Я Pepsa 👋
+# Hi! I'm Pepsa 👋
 
-Развиваюсь в Java backend-разработке и ищу возможности на позицию Junior Java Backend Developer.
+I'm developing my skills in Java backend development and looking for opportunities as a Junior Java Backend Developer.
 
-## Технологии
+## Technical Skills
 
-**Язык и backend**
+**Language & Backend**
 
-[![Java и Spring](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![Java and Spring](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 Java · Spring
 
-**Базы данных**
+**Databases**
 
-[![PostgreSQL и MySQL](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![PostgreSQL and MySQL](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 PostgreSQL · MySQL
 
-**Сборка, окружение и тестирование**
+**Build, Environment & Testing**
 
-[![Maven и Docker](https://skillicons.dev/icons?i=maven,docker)](https://skillicons.dev)
+[![Maven and Docker](https://skillicons.dev/icons?i=maven,docker)](https://skillicons.dev)
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 Maven · Docker · JUnit · DBeaver
 
-**IDE и редакторы**
+**Version Control & Collaboration**
 
-[![IntelliJ IDEA, Eclipse, Visual Studio Code и PyCharm](https://skillicons.dev/icons?i=idea,eclipse,vscode,pycharm)](https://skillicons.dev)
+[![Git and GitHub](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+Git · GitHub
+
+**IDEs & Editors**
+
+[![IntelliJ IDEA, Eclipse, Visual Studio Code and PyCharm](https://skillicons.dev/icons?i=idea,eclipse,vscode,pycharm)](https://skillicons.dev)
 
 IntelliJ IDEA · Eclipse · Visual Studio Code · PyCharm (Python)
 
-## Проекты
+## Projects
 
-- **[Java Hotel Management](https://github.com/Lumpfur/java-hotel-management)** — консольное управление отелем: гости, номера, услуги, отчёты и CSV.
+- **[Java Hotel Management](https://github.com/Lumpfur/java-hotel-management)** — a console application for managing hotel guests, rooms and services, with reports and CSV import/export.
+- **[SENLA Tasks](https://github.com/Lumpfur/senlaTasks)** — Java practice exercises, including a currency converter that processes JSON data.
+- **[Port Database](https://github.com/Lumpfur/port-database)** — a PostgreSQL database for a seaport, covering vessels, berths, cargo operations and inventory.
+- **[Hotel Muline](https://github.com/Lumpfur/Hotel_Muline)** — a holiday resort website built with HTML, CSS and JavaScript.
 
-- **[SENLA Tasks](https://github.com/Lumpfur/senlaTasks)** — учебные задачи на Java. В README проекта описан конвертер валют с обработкой JSON.
-- **[Port Database](https://github.com/Lumpfur/port-database)** — база морского порта на PostgreSQL: суда, причалы, грузовые операции и складской учёт.
-- **[Hotel Muline](https://github.com/Lumpfur/Hotel_Muline)** — сайт базы отдыха на HTML, CSS и JavaScript.
+## Interests
 
-## Интересы
+Backend development and working with data. I'm interested in exploring Python and Go further.
 
-Backend-разработка и работа с данными. Рассматриваю дальнейшее изучение Python и Go.
-
-## Контакты
+## Contact
 
 [Email — da3hpooo@mail.ru](mailto:da3hpooo@mail.ru) · [GitHub — @Lumpfur](https://github.com/Lumpfur)
