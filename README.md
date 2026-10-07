@@ -27,9 +27,11 @@ Maven · Docker · JUnit · DBeaver
 
 ## Проекты
 
+- **[Java Hotel Management](https://github.com/Lumpfur/java-hotel-management)** — консольное управление отелем: гости, номера, услуги, отчёты и CSV.
+
 - **[SENLA Tasks](https://github.com/Lumpfur/senlaTasks)** — учебные задачи на Java. В README проекта описан конвертер валют с обработкой JSON.
-- **[Port Database](https://github.com/Lumpfur/port-database)** — учебный SQL-проект.
-- **[Hotel Muline](https://github.com/Lumpfur/Hotel_Muline)** — веб-проект на HTML, CSS и JavaScript.
+- **[Port Database](https://github.com/Lumpfur/port-database)** — база морского порта на PostgreSQL: суда, причалы, грузовые операции и складской учёт.
+- **[Hotel Muline](https://github.com/Lumpfur/Hotel_Muline)** — сайт базы отдыха на HTML, CSS и JavaScript.
 
 ## Интересы
 
