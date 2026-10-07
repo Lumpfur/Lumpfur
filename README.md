@@ -25,6 +25,12 @@ PostgreSQL · MySQL
 
 Maven · Docker · JUnit · DBeaver
 
+**IDE и редакторы**
+
+[![IntelliJ IDEA, Eclipse, Visual Studio Code и PyCharm](https://skillicons.dev/icons?i=idea,eclipse,vscode,pycharm)](https://skillicons.dev)
+
+IntelliJ IDEA · Eclipse · Visual Studio Code · PyCharm (Python)
+
 ## Проекты
 
 - **[Java Hotel Management](https://github.com/Lumpfur/java-hotel-management)** — консольное управление отелем: гости, номера, услуги, отчёты и CSV.
